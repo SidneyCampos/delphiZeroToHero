@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/03/19 00:14:17.508,=C:\Users\sidne\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/19 00:22:32.570,C:\Users\sidne\Documents\Embarcadero\Studio\Projects\DelphiToHeroLive\ClientVCL\src\view\DelphiToHero.View.Main.pas=C:\Users\sidne\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/19 00:22:32.570,C:\Users\sidne\Documents\Embarcadero\Studio\Projects\DelphiToHeroLive\ClientVCL\src\view\DelphiToHero.View.Main.dfm=C:\Users\sidne\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/03/19 00:22:54.770,C:\Users\sidne\Documents\Embarcadero\Studio\Projects\DelphiToHeroLive\ClientVCL\DelphiToHero.dproj=C:\Users\sidne\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
